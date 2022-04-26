@@ -2,6 +2,19 @@
     {
         "year": 111,
         "month": 4,
+        "day": 26,
+        "volume": 2418914,
+        "value": 364551841,
+        "opening_price": 151,
+        "highest_price": 153,
+        "lowest_price": 150,
+        "closing_price": 150.5,
+        "change": 0,
+        "transaction": 1844
+    },
+    {
+        "year": 111,
+        "month": 4,
         "day": 25,
         "volume": 2708073,
         "value": 412603077,
